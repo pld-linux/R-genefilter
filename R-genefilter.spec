@@ -2,13 +2,13 @@
 
 Summary:	Methods for filtering genes from microarray experiments
 Name:		R-%{packname}
-Version:	1.40.0
+Version:	1.44.0
 Release:	1
 License:	Artistic 2.0
 Group:		Applications/Engineering
 Source0:	http://bioconductor.org/packages/release/bioc/src/contrib/%{packname}_%{version}.tar.gz
-# Source0-md5:	3bbb52c4acf1d83d58d45aa4b04397eb
-URL:		http://bioconductor.org/packages/release/bioc/html/%{packname}.html
+# Source0-md5:	9b368a3942b705cc1547c2c36ddc23ee
+URL:		http://bioconductor.org/packages/release/bioc/html/genefilter.html
 BuildRequires:	R
 BuildRequires:	R-Biobase
 BuildRequires:	R-AnnotationDbi
